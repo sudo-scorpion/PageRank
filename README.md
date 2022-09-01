@@ -1,5 +1,3 @@
-# PageRank
-
 # Simplified PageRank Algorithm
 Implementation of the simplified version of the original PageRank algorithm from Google. 
 > The PageRank algorithm is an algorithm used by Google Search to rank web pages in their search engine results to order or rank different web pages on the internet.
